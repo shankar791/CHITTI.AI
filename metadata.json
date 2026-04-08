@@ -1,0 +1,5 @@
+{
+  "name": "AI Website Generator",
+  "description": "A multi-agent system that generates full websites from natural language prompts using Gemini.",
+  "requestFramePermissions": []
+}
